@@ -1,2 +1,10 @@
 alpine
 goharbor/redis-photon:v2.7.1
+goharbor/registry-photon:v2.5.1
+goharbor/nginx-photon:v2.5.1
+goharbor/harbor-log:v2.5.1
+goharbor/harbor-jobservice:v2.5.1
+goharbor/harbor-core:v2.5.1
+goharbor/harbor-portal:v2.5.1
+goharbor/harbor-db:v2.5.1
+goharbor/prepare:v2.5.1
