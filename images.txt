@@ -1,1 +1,1 @@
-docker.io/calico/kube-controllers:v3.23.2
+amazoncorretto:8u352
