@@ -1,1 +1,1 @@
-amazoncorretto:8u352
+openjdk:8-jdk-alpine
