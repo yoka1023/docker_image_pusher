@@ -1,1 +1,1 @@
-harbor-portal
+amazoncorretto:8u352
