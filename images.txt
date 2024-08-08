@@ -1,1 +1,1 @@
-8-jdk-alpin
+harbor-portal
