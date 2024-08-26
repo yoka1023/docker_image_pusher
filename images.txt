@@ -1,1 +1,1 @@
-eipwork/kuboard:v3
+docker.io/kubernetesui/metrics-scraper:v1.0.8
