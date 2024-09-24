@@ -1,1 +1,1 @@
-nacos/nacos-peer-finder-plugin:1.1
+nacos/nacos-peer-finder-plugin:v1.1
