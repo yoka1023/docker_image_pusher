@@ -1,1 +1,1 @@
-docker.io/calico/kube-controllers:v3.23.2
+easzlab/nfs-subdir-external-provisioner:v4.0.1
